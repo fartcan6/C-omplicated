@@ -1,8 +1,6 @@
 # C-omplicated
-_very complicated and inefficient_
 
-
-**this is a simple C print code!**
+**this is a simple C print code!** (_trust me_)
 
 ```C
 
