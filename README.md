@@ -1,2 +1,5 @@
 # C-omplicated
-very complicated and inefficient 
+_very complicated and inefficient_
+
+
+**this is a simple C print code!**
